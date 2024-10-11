@@ -1,9 +1,10 @@
 ### Guide to start the project in your local machine
 
 1. Clone the Repository: Run the following command:
+   https://github.com/samir9187/EmployeeDashboard.git
 
 2. Navigate to the Project Directory:
-   cd
+   cd vite-project
 
 3. Install Dependencies: npm install
 
@@ -31,8 +32,13 @@ This title clearly indicates the purpose of the page.
 - **Overview**: This dashboard allows users to view, search,delete and manage employee data effectively.
 
 - **Instructions**:
+
   - **Search Functionality**: Enter an employee ID in the search bar and click the search button to locate a specific employee.
-  - **Employee Cards**: Each employee's card displays their name, salary, age, and an image (if available).
+
+  - **Employee Cards**: Each employee's card displays their name, salary, age, etc.
+
   - **Card Actions**: Click on an employee card to view more details, or use the Delete button to remove an employee from the list and also there is a option for batch delete using the checkbox that is present inside the card (note: this will only remove it from the current view, not the database).
+
 - **Click Behavior**: Clicking an employee card redirects you to a detailed view of that employee.
+
 - **Delete Feature**: Use the Delete button to remove an employee card from the display.
