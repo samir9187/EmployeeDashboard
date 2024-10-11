@@ -35,7 +35,7 @@ This title clearly indicates the purpose of the page.
 
   - **Search Functionality**: Enter an employee ID in the search bar and click the search button to locate a specific employee.
 
-  - **Employee Cards**: Each employee's card displays their name, salary, age, etc.
+  - **Employee Cards**: Each employee's card displays their name, age, gender, etc.
 
   - **Card Actions**: Click on an employee card to view more details, or use the Delete button to remove an employee from the list and also there is a option for batch delete using the checkbox that is present inside the card (note: this will only remove it from the current view, not the database).
 
