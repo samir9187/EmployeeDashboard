@@ -1,0 +1,33 @@
+.employee-detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f9;
+}
+
+.employee-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+    margin: 20px;
+}
+
+.employee-card h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.employee-card p {
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.employee-card strong {
+    color: #333;
+}
