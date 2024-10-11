@@ -1,7 +1,7 @@
 ### Guide to start the project in your local machine
 
 1. Clone the Repository: Run the following command:
-   https://github.com/samir9187/EmployeeDashboard.git
+   git clone https://github.com/samir9187/EmployeeDashboard.git
 
 2. Navigate to the Project Directory:
    cd vite-project
