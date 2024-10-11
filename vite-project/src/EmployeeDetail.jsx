@@ -26,9 +26,7 @@ function EmployeeDetail() {
   return (
     <div className="employee-detail-container">
       <div className="employee-card">
-        <h2>
-          Employee Detail for {employee.firstName} {employee.lastName}
-        </h2>
+        <h2>Employee Detail for {employee.firstName}</h2>
         <p>
           <strong>Id:</strong> {employee.id}
         </p>
@@ -63,7 +61,7 @@ function EmployeeDetail() {
           <strong>Phone:</strong> {employee.phone}
         </p>
         <p>
-          <strong>Phone:</strong> {employee.phone}
+          <strong>Role:</strong> {employee.role}
         </p>
         <p>
           <strong>IP Address:</strong> {employee.ip}
